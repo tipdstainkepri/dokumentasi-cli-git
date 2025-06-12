@@ -36,3 +36,6 @@ git add .
 ```bash
 git commit -m ".gitignore bekerja!"
 ```
+
+Referensi
+[Klik Disini](https://henduino.github.io/library/it/gitignore/)

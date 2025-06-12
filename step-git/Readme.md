@@ -9,11 +9,11 @@
 - Untuk mengambil project, silahkan cari repository di tempat dimana kamu menyimpan / mengambil project. Untuk contoh yang digunakan.
 
 ```bash
-https://github.com/nama-akun/nama-project.git
+git clone https://github.com/nama-akun/nama-project.git
 ``` 
 atau jika menggunakan SSH
 ```bash
-git@github.com:nama-akun/nama-project.git
+git clone git@github.com:nama-akun/nama-project.git
 ```
 
 Kode diatas dapat ditemukan pada tombol **<> Code**
